@@ -17,10 +17,10 @@ Key/
 Keys/
 
 #presentation
-presentation/
-presentations/
-Presentation/
-Presentations/
+#presentation/
+#presentations/
+#Presentation/
+#Presentations/
 
 # Distribution / packaging
 .Python
